@@ -1,10 +1,4 @@
-//
-//  SceneDelegate.swift
-//  Get Live Your Weather
-//
-//  Created by upstox on 22/01/22.
-//
-
+ 
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

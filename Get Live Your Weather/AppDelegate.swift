@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Get Live Your Weather
-//
-//  Created by upstox on 22/01/22.
-//
-
 import UIKit
 
 @main
